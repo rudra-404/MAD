@@ -22,7 +22,8 @@ grade(var num) {
 }
 
 main() {
-  print("\n\n----------------------------| CGPA CALCULATOR |----------------------------\n");
+  print(
+      "\n\n----------------------------| CGPA CALCULATOR |----------------------------\n");
 
   var ds = 70.0; // Data Structures
   var dsl = 75.0; // Data Structures Laboratory
