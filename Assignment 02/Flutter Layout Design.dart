@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   final int box_height = 140;
-  final int box_width = 110;
+  final int box_width = 115;
 
   @override
   Widget build(BuildContext context) {
@@ -39,8 +39,8 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                       color: const Color.fromRGBO(242, 159, 88, 1),
                       border: Border.all(
-                        color: Colors.black,
-                        width: 3.0,
+                        color: Color.fromRGBO(171, 68, 89, 1),
+                        width: 10.0,
                       ),
                       borderRadius: BorderRadius.circular(20.0),
                       boxShadow: [
@@ -62,8 +62,8 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                       color: const Color.fromRGBO(242, 159, 88, 1),
                       border: Border.all(
-                        color: Colors.black,
-                        width: 3.0,
+                        color: Color.fromRGBO(171, 68, 89, 1),
+                        width: 10.0,
                       ),
                       borderRadius: BorderRadius.circular(20.0),
                       boxShadow: [
@@ -89,8 +89,8 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                       color: const Color.fromRGBO(242, 159, 88, 1),
                       border: Border.all(
-                        color: Colors.black,
-                        width: 3.0,
+                        color: Color.fromRGBO(171, 68, 89, 1),
+                        width: 10.0,
                       ),
                       borderRadius: BorderRadius.circular(20.0),
                       boxShadow: [
@@ -116,8 +116,8 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                       color: const Color.fromRGBO(242, 159, 88, 1),
                       border: Border.all(
-                        color: Colors.black,
-                        width: 3.0,
+                        color: Color.fromRGBO(171, 68, 89, 1),
+                        width: 10.0,
                       ),
                       borderRadius: BorderRadius.circular(20.0),
                       boxShadow: [
@@ -139,8 +139,8 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                       color: const Color.fromRGBO(242, 159, 88, 1),
                       border: Border.all(
-                        color: Colors.black,
-                        width: 3.0,
+                        color: Color.fromRGBO(171, 68, 89, 1),
+                        width: 10.0,
                       ),
                       borderRadius: BorderRadius.circular(20.0),
                       boxShadow: [
@@ -162,8 +162,8 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                       color: const Color.fromRGBO(242, 159, 88, 1),
                       border: Border.all(
-                        color: Colors.black,
-                        width: 3.0,
+                        color: Color.fromRGBO(171, 68, 89, 1),
+                        width: 10.0,
                       ),
                       borderRadius: BorderRadius.circular(20.0),
                       boxShadow: [
@@ -189,8 +189,8 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                       color: const Color.fromRGBO(242, 159, 88, 1),
                       border: Border.all(
-                        color: Colors.black,
-                        width: 3.0,
+                        color: Color.fromRGBO(171, 68, 89, 1),
+                        width: 10.0,
                       ),
                       borderRadius: BorderRadius.circular(20.0),
                       boxShadow: [
@@ -216,8 +216,8 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                       color: const Color.fromRGBO(242, 159, 88, 1),
                       border: Border.all(
-                        color: Colors.black,
-                        width: 3.0,
+                        color: Color.fromRGBO(171, 68, 89, 1),
+                        width: 10.0,
                       ),
                       borderRadius: BorderRadius.circular(20.0),
                       boxShadow: [
@@ -239,8 +239,8 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                       color: const Color.fromRGBO(242, 159, 88, 1),
                       border: Border.all(
-                        color: Colors.black,
-                        width: 3.0,
+                        color: Color.fromRGBO(171, 68, 89, 1),
+                        width: 10.0,
                       ),
                       borderRadius: BorderRadius.circular(20.0),
                       boxShadow: [
