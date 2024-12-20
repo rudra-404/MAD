@@ -1,3 +1,3 @@
-# ----------- Counter [ 0 and 1 ] -----------
+# Counter [ 0 and 1 ]
 <br>
-<img src="../images/Counter.png" style="width:500px">
+<img src="../images/Counter.png" style="width:300px">
