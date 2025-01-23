@@ -1,9 +1,9 @@
 ## Layout 01
 
-### Preview :
+- ### Preview :
 
 <img src="images/Layout 01.png" height="700" alt="Layout">
 
-- ### Click [CODES]() to get the code.
+- ### [CODES](https://github.com/rudra-404/MAD/blob/main/Practice/Layout%2001/responsive_layout_01.dart)
 
-- ### Fully Responsive Layout.
+- ### Responsive Layout.
